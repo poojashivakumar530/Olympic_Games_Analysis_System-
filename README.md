@@ -69,7 +69,7 @@ pip install pandas numpy matplotlib openpyxl
 1. Clone or download this repository.
 2. Place your dataset CSV file at the path specified in the code:
    ```
-   C:\Users\pooja\OneDrive\Documents\ip_project\ip_Project_2.csv
+   <paste csv/excel file path here>
    ```
    Or update the file path in the script to match your local setup.
 3. Ensure all required libraries are installed (see Requirements above).
@@ -103,7 +103,7 @@ OLYMPICS GAMES ANALYSIS SYSTEM
 
 ## Dataset
 
-The project uses a CSV file (`ip_Project_2.csv`) with the following expected columns:
+The project uses a CSV file (`<file_name>.csv`) with the following expected columns:
 
 | Column | Description |
 |---|---|
@@ -126,7 +126,7 @@ The project uses a CSV file (`ip_Project_2.csv`) with the following expected col
 ip_project/
 │
 ├── olympics_analysis.py      # Main Python script
-├── ip_Project_2.csv          # Dataset (not included — add your own)
+├── <file_name>.csv          # Dataset (not included — add your own)
 └── README.md                 # Project documentation
 ```
 
