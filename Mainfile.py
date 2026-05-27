@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as pl
 
-df = pd.read_csv(r"C:\\Users\\pooja\\OneDrive\\Documents\\ip_project\\ip_Project_2.csv", encoding="cp1252")
+df = pd.read_csv(r"<paste csv/excel file path here>", encoding="cp1252")
 
 def menu():
     ans = True
